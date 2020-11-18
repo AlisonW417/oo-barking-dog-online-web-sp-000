@@ -1,8 +1,8 @@
 # Your code goes here!
 class Dog 
   
-  def name=(new_dogs_name)
-    name = @new_dogs_name
+  def name=(dog_name)
+    @new_dogs_name = dog_name
   end 
   
   def name 
